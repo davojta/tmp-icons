@@ -9,631 +9,876 @@
     "sourceSize": 384,
     "targetSize": 96,
     "pixelRatio": 1,
-    "postfix": "-dark",
+    "postfix": "dark",
     "borderColor": "#000",
     "borderSize": 4
   },
   "outputMetadata": {
-    "outputDir": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/",
+    "outputDir": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/",
     "icons": [
       {
         "icon_name": "natural-history-museum",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/natural-history-museum--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/natural-history-museum-dark.png",
         "length": 15027
       },
       {
+        "icon_name": "carillon",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/carillon-dark.png",
+        "length": 8320
+      },
+      {
         "icon_name": "broadcasting-house",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/broadcasting-house--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/broadcasting-house-dark.png",
         "length": 14302
       },
       {
         "icon_name": "millbank-tower",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/millbank-tower--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/millbank-tower-dark.png",
         "length": 15682
       },
       {
         "icon_name": "security-office",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/security-office--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/security-office-dark.png",
         "length": 7905
       },
       {
         "icon_name": "stonestown-galleria",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/stonestown-galleria--dark.png",
-        "length": 4187
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/stonestown-galleria-dark.png",
+        "length": 7985
       },
       {
         "icon_name": "sf-mint",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/sf-mint--dark.png",
-        "length": 12179
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/sf-mint-dark.png",
+        "length": 10373
+      },
+      {
+        "icon_name": "einz",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/einz-dark.png",
+        "length": 6599
+      },
+      {
+        "icon_name": "edge-east-side",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/edge-east-side-dark.png",
+        "length": 3416
+      },
+      {
+        "icon_name": "soviet-war-memorial",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/soviet-war-memorial-dark.png",
+        "length": 3301
       },
       {
         "icon_name": "castro-theatre",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/castro-theatre--dark.png",
-        "length": 6178
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/castro-theatre-dark.png",
+        "length": 11920
       },
       {
         "icon_name": "big-ben",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/big-ben--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/big-ben-dark.png",
         "length": 10466
       },
       {
+        "icon_name": "bain-company",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/bain-company-dark.png",
+        "length": 12292
+      },
+      {
         "icon_name": "queen-mary-court",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/queen-mary-court--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/queen-mary-court-dark.png",
         "length": 3492
       },
       {
         "icon_name": "the-ritz-carlton",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/the-ritz-carlton--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/the-ritz-carlton-dark.png",
         "length": 7506
       },
       {
         "icon_name": "nelson's-column",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/nelson's-column--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/nelson's-column-dark.png",
         "length": 6520
       },
       {
         "icon_name": "london-eye",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/london-eye--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/london-eye-dark.png",
         "length": 14980
       },
       {
         "icon_name": "barbican-brandon-mews",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/barbican-brandon-mews--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/barbican-brandon-mews-dark.png",
         "length": 10286
       },
       {
         "icon_name": "palace-of-westminster",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/palace-of-westminster--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/palace-of-westminster-dark.png",
         "length": 8881
       },
       {
         "icon_name": "st-pancras-international",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/st-pancras-international--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/st-pancras-international-dark.png",
         "length": 9995
       },
       {
+        "icon_name": "chancellery",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/chancellery-dark.png",
+        "length": 5772
+      },
+      {
         "icon_name": "city-of-london-school-for-girls",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/city-of-london-school-for-girls--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/city-of-london-school-for-girls-dark.png",
         "length": 7918
       },
       {
+        "icon_name": "state-opera",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/state-opera-dark.png",
+        "length": 8356
+      },
+      {
         "icon_name": "de-young-museum",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/de-young-museum--dark.png",
-        "length": 10060
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/de-young-museum-dark.png",
+        "length": 8261
       },
       {
         "icon_name": "tower-42",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/tower-42--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/tower-42-dark.png",
         "length": 10428
       },
       {
+        "icon_name": "holocaust-memorial",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/holocaust-memorial-dark.png",
+        "length": 3682
+      },
+      {
         "icon_name": "zynga-hq",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/zynga-hq--dark.png",
-        "length": 12983
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/zynga-hq-dark.png",
+        "length": 13009
       },
       {
         "icon_name": "british-museum",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/british-museum--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/british-museum-dark.png",
         "length": 10335
       },
       {
+        "icon_name": "state-library",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/state-library-dark.png",
+        "length": 4437
+      },
+      {
+        "icon_name": "charlottenburg-palace",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/charlottenburg-palace-dark.png",
+        "length": 6918
+      },
+      {
         "icon_name": "the-o2",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/the-o2--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/the-o2-dark.png",
         "length": 8349
       },
       {
         "icon_name": "citigroup-centre",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/citigroup-centre--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/citigroup-centre-dark.png",
         "length": 13611
       },
       {
         "icon_name": "bt-tower",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/bt-tower--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/bt-tower-dark.png",
         "length": 7787
       },
       {
+        "icon_name": "motor-company",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/motor-company-dark.png",
+        "length": 6153
+      },
+      {
+        "icon_name": "citycube",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/citycube-dark.png",
+        "length": 4688
+      },
+      {
         "icon_name": "holiday-inn-golden-gateway",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/holiday-inn-golden-gateway--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/holiday-inn-golden-gateway-dark.png",
         "length": 10053
       },
       {
         "icon_name": "20-fenchurch-st",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/20-fenchurch-st--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/20-fenchurch-st-dark.png",
         "length": 17602
       },
       {
         "icon_name": "national-theatre",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/national-theatre--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/national-theatre-dark.png",
         "length": 10574
       },
       {
+        "icon_name": "brandenburg-gate",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/brandenburg-gate-dark.png",
+        "length": 3301
+      },
+      {
         "icon_name": "one-de-haro",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/one-de-haro--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/one-de-haro-dark.png",
         "length": 10635
       },
       {
+        "icon_name": "konzerthaus",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/konzerthaus-dark.png",
+        "length": 4851
+      },
+      {
+        "icon_name": "reichstag",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/reichstag-dark.png",
+        "length": 7139
+      },
+      {
+        "icon_name": "st.-matthew-s",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/st.-matthew-s-dark.png",
+        "length": 7839
+      },
+      {
+        "icon_name": "park-inn",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/park-inn-dark.png",
+        "length": 6003
+      },
+      {
+        "icon_name": "nikolaikirche",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/nikolaikirche-dark.png",
+        "length": 4188
+      },
+      {
+        "icon_name": "up!-berlin",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/up!-berlin-dark.png",
+        "length": 13954
+      },
+      {
+        "icon_name": "treptowers",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/treptowers-dark.png",
+        "length": 3301
+      },
+      {
         "icon_name": "lloyd's-building",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/lloyd's-building--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/lloyd's-building-dark.png",
         "length": 14361
       },
       {
         "icon_name": "transamerica-pyramid",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/transamerica-pyramid--dark.png",
-        "length": 9447
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/transamerica-pyramid-dark.png",
+        "length": 7420
+      },
+      {
+        "icon_name": "olympic-stadium",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/olympic-stadium-dark.png",
+        "length": 5298
       },
       {
         "icon_name": "metreon",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/metreon--dark.png",
-        "length": 4814
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/metreon-dark.png",
+        "length": 9628
+      },
+      {
+        "icon_name": "bmw-berlin-weißensee",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/bmw-berlin-weißensee-dark.png",
+        "length": 6160
       },
       {
         "icon_name": "tate-britain",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/tate-britain--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/tate-britain-dark.png",
         "length": 11364
       },
       {
+        "icon_name": "uber-arena",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/uber-arena-dark.png",
+        "length": 4276
+      },
+      {
         "icon_name": "st.-brigid-church",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/st.-brigid-church--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/st.-brigid-church-dark.png",
         "length": 8463
       },
       {
         "icon_name": "mcallister-tower",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/mcallister-tower--dark.png",
-        "length": 12062
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/mcallister-tower-dark.png",
+        "length": 12644
       },
       {
         "icon_name": "portcullis-house",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/portcullis-house--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/portcullis-house-dark.png",
         "length": 5489
       },
       {
+        "icon_name": "alexa",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/alexa-dark.png",
+        "length": 4601
+      },
+      {
         "icon_name": "southbank-centre",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/southbank-centre--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/southbank-centre-dark.png",
         "length": 5330
       },
       {
         "icon_name": "one-rincon-hill",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/one-rincon-hill--dark.png",
-        "length": 10848
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/one-rincon-hill-dark.png",
+        "length": 14148
       },
       {
         "icon_name": "barbican-centre",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/barbican-centre--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/barbican-centre-dark.png",
         "length": 11253
       },
       {
         "icon_name": "first-baptist-church",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/first-baptist-church--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/first-baptist-church-dark.png",
         "length": 8956
       },
       {
         "icon_name": "painted-ladies",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/painted-ladies--dark.png",
-        "length": 9262
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/painted-ladies-dark.png",
+        "length": 13805
       },
       {
         "icon_name": "calvary-presbyterian-church",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/calvary-presbyterian-church--dark.png",
-        "length": 4535
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/calvary-presbyterian-church-dark.png",
+        "length": 11363
       },
       {
         "icon_name": "2500-steiner-st",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/2500-steiner-st--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/2500-steiner-st-dark.png",
         "length": 12137
       },
       {
         "icon_name": "museum-of-the-eye",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/museum-of-the-eye--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/museum-of-the-eye-dark.png",
         "length": 5133
       },
       {
         "icon_name": "the-summit",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/the-summit--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/the-summit-dark.png",
         "length": 1301
       },
       {
         "icon_name": "sf-columbarium",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/sf-columbarium--dark.png",
-        "length": 7175
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/sf-columbarium-dark.png",
+        "length": 12774
       },
       {
         "icon_name": "toyota",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/toyota--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/toyota-dark.png",
         "length": 7907
       },
       {
         "icon_name": "one-maritime-plaza",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/one-maritime-plaza--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/one-maritime-plaza-dark.png",
         "length": 3301
       },
       {
+        "icon_name": "french-cathedral",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/french-cathedral-dark.png",
+        "length": 8961
+      },
+      {
         "icon_name": "california-academy-of-sciences",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/california-academy-of-sciences--dark.png",
-        "length": 8083
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/california-academy-of-sciences-dark.png",
+        "length": 8351
       },
       {
         "icon_name": "madame-tussauds",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/madame-tussauds--dark.png",
-        "length": 6311
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/madame-tussauds-dark.png",
+        "length": 11204
       },
       {
         "icon_name": "v&a",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/v&a--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/v&a-dark.png",
         "length": 13056
       },
       {
         "icon_name": "cable-car-museum",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/cable-car-museum--dark.png",
-        "length": 9219
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/cable-car-museum-dark.png",
+        "length": 11350
       },
       {
         "icon_name": "st.-joseph-s-church",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/st.-joseph-s-church--dark.png",
-        "length": 3301
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/st.-joseph-s-church-dark.png",
+        "length": 12994
       },
       {
         "icon_name": "new-zealand-house",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/new-zealand-house--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/new-zealand-house-dark.png",
         "length": 5638
       },
       {
         "icon_name": "leadenhall-building",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/leadenhall-building--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/leadenhall-building-dark.png",
         "length": 8373
       },
       {
         "icon_name": "the-shard",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/the-shard--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/the-shard-dark.png",
         "length": 9831
       },
       {
+        "icon_name": "berlin-cathedral",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/berlin-cathedral-dark.png",
+        "length": 7083
+      },
+      {
         "icon_name": "london-hilton-on-park-lane",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/london-hilton-on-park-lane--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/london-hilton-on-park-lane-dark.png",
         "length": 11527
       },
       {
+        "icon_name": "acb",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/acb-dark.png",
+        "length": 3911
+      },
+      {
+        "icon_name": "heating-plant",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/heating-plant-dark.png",
+        "length": 5188
+      },
+      {
         "icon_name": "king-william-court",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/king-william-court--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/king-william-court-dark.png",
         "length": 4625
       },
       {
         "icon_name": "queen-anne-court",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/queen-anne-court--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/queen-anne-court-dark.png",
         "length": 5024
       },
       {
         "icon_name": "st.-francis-shrine",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/st.-francis-shrine--dark.png",
-        "length": 3301
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/st.-francis-shrine-dark.png",
+        "length": 13600
       },
       {
         "icon_name": "50-california-st",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/50-california-st--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/50-california-st-dark.png",
         "length": 15171
       },
       {
         "icon_name": "fontana-towers",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/fontana-towers--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/fontana-towers-dark.png",
         "length": 16004
       },
       {
+        "icon_name": "sony-center",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/sony-center-dark.png",
+        "length": 3301
+      },
+      {
         "icon_name": "u.s.-customhouse",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/u.s.-customhouse--dark.png",
-        "length": 8821
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/u.s.-customhouse-dark.png",
+        "length": 10438
       },
       {
         "icon_name": "rincon-center",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/rincon-center--dark.png",
-        "length": 6205
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/rincon-center-dark.png",
+        "length": 14431
       },
       {
         "icon_name": "grace-cathedral",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/grace-cathedral--dark.png",
-        "length": 11243
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/grace-cathedral-dark.png",
+        "length": 8943
       },
       {
         "icon_name": "old-federal-reserve-bank",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/old-federal-reserve-bank--dark.png",
-        "length": 3628
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/old-federal-reserve-bank-dark.png",
+        "length": 9276
       },
       {
         "icon_name": "45-montgomery-st",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/45-montgomery-st--dark.png",
-        "length": 7592
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/45-montgomery-st-dark.png",
+        "length": 13723
       },
       {
         "icon_name": "sis-building",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/sis-building--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/sis-building-dark.png",
         "length": 16649
       },
       {
+        "icon_name": "postbank-tower",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/postbank-tower-dark.png",
+        "length": 5650
+      },
+      {
         "icon_name": "emporium-centre",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/emporium-centre--dark.png",
-        "length": 11168
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/emporium-centre-dark.png",
+        "length": 12308
+      },
+      {
+        "icon_name": "bundestag-library",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/bundestag-library-dark.png",
+        "length": 5465
+      },
+      {
+        "icon_name": "haus-des-lehrers",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/haus-des-lehrers-dark.png",
+        "length": 3301
       },
       {
         "icon_name": "comfort-inn-by-the-bay",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/comfort-inn-by-the-bay--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/comfort-inn-by-the-bay-dark.png",
         "length": 11293
       },
       {
         "icon_name": "st-giles-cripplegate",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/st-giles-cripplegate--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/st-giles-cripplegate-dark.png",
         "length": 7254
       },
       {
         "icon_name": "thomas-more-house",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/thomas-more-house--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/thomas-more-house-dark.png",
         "length": 6850
       },
       {
         "icon_name": "shakespeare-tower",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/shakespeare-tower--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/shakespeare-tower-dark.png",
         "length": 9501
       },
       {
         "icon_name": "cromwell-tower",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/cromwell-tower--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/cromwell-tower-dark.png",
         "length": 6626
       },
       {
         "icon_name": "lauderdale-tower",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/lauderdale-tower--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/lauderdale-tower-dark.png",
         "length": 6159
       },
       {
         "icon_name": "bridgewater-house",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/bridgewater-house--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/bridgewater-house-dark.png",
         "length": 6496
       },
       {
         "icon_name": "clocktower-building",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/clocktower-building--dark.png",
-        "length": 8541
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/clocktower-building-dark.png",
+        "length": 11236
       },
       {
         "icon_name": "phelan-building",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/phelan-building--dark.png",
-        "length": 7795
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/phelan-building-dark.png",
+        "length": 12417
       },
       {
         "icon_name": "phillip-burton-federal-building",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/phillip-burton-federal-building--dark.png",
-        "length": 16200
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/phillip-burton-federal-building-dark.png",
+        "length": 16806
+      },
+      {
+        "icon_name": "central-station",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/central-station-dark.png",
+        "length": 5738
+      },
+      {
+        "icon_name": "philharmonic-hall",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/philharmonic-hall-dark.png",
+        "length": 8148
       },
       {
         "icon_name": "tower-of-london",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/tower-of-london--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/tower-of-london-dark.png",
         "length": 5301
       },
       {
         "icon_name": "st-paul's-cathedral",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/st-paul's-cathedral--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/st-paul's-cathedral-dark.png",
         "length": 11411
       },
       {
         "icon_name": "royal-albert-hall",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/royal-albert-hall--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/royal-albert-hall-dark.png",
         "length": 13437
       },
       {
+        "icon_name": "riu-plaza-berlin",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/riu-plaza-berlin-dark.png",
+        "length": 11827
+      },
+      {
         "icon_name": "sutro-tower",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/sutro-tower--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/sutro-tower-dark.png",
         "length": 3301
       },
       {
         "icon_name": "one-blackfriars",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/one-blackfriars--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/one-blackfriars-dark.png",
         "length": 9740
       },
       {
         "icon_name": "centre-point",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/centre-point--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/centre-point-dark.png",
         "length": 15450
       },
       {
         "icon_name": "sf-museum-of-modern-art",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/sf-museum-of-modern-art--dark.png",
-        "length": 9425
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/sf-museum-of-modern-art-dark.png",
+        "length": 9691
+      },
+      {
+        "icon_name": "bode-museum",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/bode-museum-dark.png",
+        "length": 6995
+      },
+      {
+        "icon_name": "rotes-rathaus",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/rotes-rathaus-dark.png",
+        "length": 4841
       },
       {
         "icon_name": "the-infinity",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/the-infinity--dark.png",
-        "length": 13342
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/the-infinity-dark.png",
+        "length": 10126
       },
       {
         "icon_name": "the-infinity",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/the-infinity--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/the-infinity-dark.png",
         "length": 12495
       },
       {
         "icon_name": "brunswick-centre",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/brunswick-centre--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/brunswick-centre-dark.png",
         "length": 15586
       },
       {
         "icon_name": "king's-cross",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/king's-cross--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/king's-cross-dark.png",
         "length": 11909
       },
       {
+        "icon_name": "ernst-young",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/ernst-young-dark.png",
+        "length": 3301
+      },
+      {
         "icon_name": "salesforce-tower",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/salesforce-tower--dark.png",
-        "length": 9598
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/salesforce-tower-dark.png",
+        "length": 9830
+      },
+      {
+        "icon_name": "new-church",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/new-church-dark.png",
+        "length": 9514
       },
       {
         "icon_name": "101-california-st",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/101-california-st--dark.png",
-        "length": 9690
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/101-california-st-dark.png",
+        "length": 12588
       },
       {
         "icon_name": "national-gallery",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/national-gallery--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/national-gallery-dark.png",
         "length": 11842
       },
       {
         "icon_name": "rincon-annex",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/rincon-annex--dark.png",
-        "length": 4051
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/rincon-annex-dark.png",
+        "length": 14705
       },
       {
         "icon_name": "181-fremont",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/181-fremont--dark.png",
-        "length": 3301
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/181-fremont-dark.png",
+        "length": 10673
       },
       {
         "icon_name": "tate-modern",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/tate-modern--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/tate-modern-dark.png",
         "length": 3301
       },
       {
         "icon_name": "coit-tower",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/coit-tower--dark.png",
-        "length": 8203
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/coit-tower-dark.png",
+        "length": 6865
       },
       {
         "icon_name": "king-charles-court",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/king-charles-court--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/king-charles-court-dark.png",
         "length": 8876
       },
       {
         "icon_name": "british-library",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/british-library--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/british-library-dark.png",
         "length": 9572
       },
       {
         "icon_name": "cesar-chavez-student-center",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/cesar-chavez-student-center--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/cesar-chavez-student-center-dark.png",
         "length": 7056
       },
       {
         "icon_name": "the-gherkin",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/the-gherkin--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/the-gherkin-dark.png",
         "length": 11603
       },
       {
         "icon_name": "battersea-power-station",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/battersea-power-station--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/battersea-power-station-dark.png",
         "length": 13289
       },
       {
         "icon_name": "buckingham-palace",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/buckingham-palace--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/buckingham-palace-dark.png",
         "length": 10809
       },
       {
         "icon_name": "newfoundland",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/newfoundland--dark.png",
-        "length": 13993
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/newfoundland-dark.png",
+        "length": 13994
+      },
+      {
+        "icon_name": "itc-berlin",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/itc-berlin-dark.png",
+        "length": 11161
+      },
+      {
+        "icon_name": "tv-tower",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/tv-tower-dark.png",
+        "length": 4863
+      },
+      {
+        "icon_name": "motel-one",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/motel-one-dark.png",
+        "length": 10259
       },
       {
         "icon_name": "trellick-tower",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/trellick-tower--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/trellick-tower-dark.png",
         "length": 14078
       },
       {
         "icon_name": "chase-center",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/chase-center--dark.png",
-        "length": 3977
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/chase-center-dark.png",
+        "length": 9874
+      },
+      {
+        "icon_name": "st.-hedwig-s-cathedral",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/st.-hedwig-s-cathedral-dark.png",
+        "length": 3301
       },
       {
         "icon_name": "california-center",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/california-center--dark.png",
-        "length": 10439
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/california-center-dark.png",
+        "length": 11511
       },
       {
         "icon_name": "bagel-factory",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/bagel-factory--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/bagel-factory-dark.png",
         "length": 4408
       },
       {
         "icon_name": "one-canada-square",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/one-canada-square--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/one-canada-square-dark.png",
         "length": 14112
       },
       {
         "icon_name": "hsbc-tower",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/hsbc-tower--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/hsbc-tower-dark.png",
         "length": 16143
       },
       {
         "icon_name": "royal-festival-hall",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/royal-festival-hall--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/royal-festival-hall-dark.png",
         "length": 5124
       },
       {
         "icon_name": "sf-ferry-building",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/sf-ferry-building--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/sf-ferry-building-dark.png",
         "length": 3301
       },
       {
+        "icon_name": "kollhoff-tower",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/kollhoff-tower-dark.png",
+        "length": 16443
+      },
+      {
         "icon_name": "defoe-house",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/defoe-house--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/defoe-house-dark.png",
         "length": 7064
       },
       {
         "icon_name": "1550-mission-st",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/1550-mission-st--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/1550-mission-st-dark.png",
         "length": 7092
       },
       {
         "icon_name": "the-avery",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/the-avery--dark.png",
-        "length": 4953
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/the-avery-dark.png",
+        "length": 9833
+      },
+      {
+        "icon_name": "axel-springer-campus",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/axel-springer-campus-dark.png",
+        "length": 9475
       },
       {
         "icon_name": "hilton-union-square",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/hilton-union-square--dark.png",
-        "length": 4665
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/hilton-union-square-dark.png",
+        "length": 13802
+      },
+      {
+        "icon_name": "memorial-church",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/memorial-church-dark.png",
+        "length": 7611
+      },
+      {
+        "icon_name": "mercedes-welt",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/mercedes-welt-dark.png",
+        "length": 6250
       },
       {
         "icon_name": "london-stadium",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/london-stadium--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/london-stadium-dark.png",
         "length": 14105
       },
       {
         "icon_name": "22-bishopsgate",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/22-bishopsgate--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/22-bishopsgate-dark.png",
         "length": 10268
       },
       {
+        "icon_name": "victory-column",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/victory-column-dark.png",
+        "length": 6153
+      },
+      {
         "icon_name": "sf-city-hall",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/sf-city-hall--dark.png",
-        "length": 11769
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/sf-city-hall-dark.png",
+        "length": 10853
       },
       {
         "icon_name": "oracle-park",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/oracle-park--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/oracle-park-dark.png",
         "length": 3301
       },
       {
         "icon_name": "saint-mary-s-cathedral",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/saint-mary-s-cathedral--dark.png",
-        "length": 6136
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/saint-mary-s-cathedral-dark.png",
+        "length": 8993
       },
       {
         "icon_name": "sf-federal-building",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/sf-federal-building--dark.png",
-        "length": 4333
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/sf-federal-building-dark.png",
+        "length": 12614
       },
       {
         "icon_name": "savills-kensington",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/savills-kensington--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/savills-kensington-dark.png",
         "length": 15354
       },
       {
         "icon_name": "iwm-london",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/iwm-london--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/iwm-london-dark.png",
         "length": 13886
       },
       {
         "icon_name": "city-hall",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/city-hall--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/city-hall-dark.png",
         "length": 11957
       },
       {
+        "icon_name": "hkw",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/hkw-dark.png",
+        "length": 5250
+      },
+      {
         "icon_name": "heron-tower",
-        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-13-landmark-icons/icons/heron-tower--dark.png",
+        "file": "/Users/dzianissheka/projects/dev/work/mbx-3dbuilding-ppln/_temp/2025-03-14-landmark-icons/icons/heron-tower-dark.png",
         "length": 9570
       }
     ]
